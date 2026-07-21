@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TFP-5] El mensaje de error aparece en el campo &quot;Dirección&quot; cuando se introduce exactamente un rango válido de 50 caracteres</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://adamcarpa.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TFP-5]&nbsp;<a href="https://adamcarpa.atlassian.net/browse/TFP-5">El mensaje de error aparece en el campo &quot;Dirección&quot; cuando se introduce exactamente un rango válido de 50 caracteres</a>
+            <span class="subText">
+               Creada: 07/jul/26                   &nbsp;Actualizada: 07/jul/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">Tareas por hacer</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://adamcarpa.atlassian.net/secure/BrowseProject.jspa?id=10002">TripleTen_Final_Project</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Error
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:825c5cdd-3264-45f3-ab2b-4027b82a77ee"
+                id="word_reporter_712020:825c5cdd-3264-45f3-ab2b-4027b82a77ee"
+                href="https://adamcarpa.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A825c5cdd-3264-45f3-ab2b-4027b82a77ee">
+                    Adam Cárdenas
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    sin asignar
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-10072-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Ninguno
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Adjuntos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://adamcarpa.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Archivo PNG">
+                    image-20260707-020726.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Clasificación:</b></td>
+                <td id="customfield_10019-10072-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001j:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>El mensaje de error aparece en el campo "Dirección" cuando se introduce exactamente un rango válido de 50 caracteres.</b></p>
+
+<p>Resumen: El mensaje de error en el campo “Dirección” aparece exactamente cuando se completa el valor límite de 50 caracteres. Según los requisitos el rango válido para este campo es de 5 a 50 caracteres.</p>
+
+<p>Pre-condiciones:<br/>
+Ingresar a la página de Urban Scooter.<br/>
+Hacer click en “Pedir”.</p>
+
+<p>Pasos:</p>
+
+<ol>
+	<li>Ingresar “Maximiliano” en el campo Nombre.</li>
+	<li>Ingresar “Gallardo” en el campo Apellido (más de 15 carácteres).</li>
+	<li>Ingresar “calle Miguel Aleman 152-B, col. Presidentes.calle-” en el campo Dirección. (exactamente 50 caracteres)</li>
+	<li>Elige cualquier estación</li>
+	<li>Ingresar "+1234567890" en el campo Teléfono.</li>
+	<li>Hacer click en el botón “Siguiente”.</li>
+</ol>
+
+
+<p>Resultado esperado:</p>
+
+<p>3- El campo debería completarse correctamente sin que aparezca ningún mensaje de erro, ya que todavía esta dentro del rango.</p>
+
+<p>5- El botón “siguiente” se habilita y permite avanzar, ya que todos los campos se han llenado correctamente.</p>
+
+<p>Resultado actual:</p>
+
+<p>3- Aparece el mensaje de error “introduce un número válido” cuando no debería de aparecer.</p>
+
+<p>5- El botón “Siguiente” esta deshablitado y no permite avanzar.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generado a las Tue Jul 21 00:31:32 UTC 2026 por Adam Cárdenas usando JIRA 1001.0.0-SNAPSHOT#100292-rev:532ed230ff9aa83f9c3039b776559e831302b5dd.
+
+</body>
+</html>

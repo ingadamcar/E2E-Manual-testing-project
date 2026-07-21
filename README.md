@@ -38,7 +38,7 @@
 </ul>
 
 <h2>Imagenes de referencia:</h2>
-<img src="example-images/Urban_Scooters_Homepage.png" alt="Pagina principal"/>
+<img src="example-images/Urban_Scooters_Homepage.PNG" alt="Pagina principal"/>
 <img src="example-images/Form_1.png" alt="Formulario del alquiler 1"/>
 <img src="example-images/Form_2.png" alt="Formulario del alquiler 2"/>
 <img src="example-images/Order.png" alt="Pedido realizado"/>

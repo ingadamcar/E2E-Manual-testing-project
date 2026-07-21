@@ -36,3 +36,12 @@
   <li><strong>Bugs de la app móvil:</strong> TFP-16 al TFP-26</li>
   <li><strong>Bugs de la API y base de datos:</strong> TFP-27 al TFP-43</li>
 </ul>
+
+<h2>Imagenes de referencia:</h2>
+<img src="Example images/Urban_Scooters_Homepage.png" alt="Pagina principal"/>
+<img src="Example images/Form_1.png" alt="Formulario del alquiler 1"/>
+<img src="Example images/Form_2.png" alt="Formulario del alquiler 2"/>
+<img src="Example images/Order.png" alt="Pedido realizado"/>
+<img src="Example images/app_movil.png" alt="App de repartidores"/>
+<img src="Example images/postman.png" alt="Solicitud a la API"/>
+<img src="Example images/database.png" alt="Base de datos"/>

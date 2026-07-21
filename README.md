@@ -38,10 +38,39 @@
 </ul>
 
 <h2>Imagenes de referencia:</h2>
-<img src="example-images/Urban_Scooters_Homepage.PNG" alt="Pagina principal"/>
-<img src="example-images/Form_1.png" alt="Formulario del alquiler 1"/>
-<img src="example-images/Form_2.png" alt="Formulario del alquiler 2"/>
-<img src="example-images/Order.png" alt="Pedido realizado"/>
-<img src="example-images/app_movil.png" alt="App de repartidores"/>
-<img src="example-images/postman.png" alt="Solicitud a la API"/>
-<img src="example-images/database.png" alt="Base de datos"/>
+<h2>Imagenes de referencia:</h2>
+
+<figure>
+  <figcaption><strong>Pagina principal</strong></figcaption>
+  <img src="example-images/Urban_Scooters_Homepage.PNG" alt="Pagina principal"/>
+</figure>
+
+<figure>
+  <figcaption><strong>Formulario del alquiler 1</strong></figcaption>
+  <img src="example-images/Form_1.png" alt="Formulario del alquiler 1"/>
+</figure>
+
+<figure>
+  <figcaption><strong>Formulario del alquiler 2</strong></figcaption>
+  <img src="example-images/Form_2.png" alt="Formulario del alquiler 2"/>
+</figure>
+
+<figure>
+  <figcaption><strong>Pedido realizado</strong></figcaption>
+  <img src="example-images/Order.png" alt="Pedido realizado"/>
+</figure>
+
+<figure>
+  <figcaption><strong>App de repartidores</strong></figcaption>
+  <img src="example-images/app_movil.png" alt="App de repartidores"/>
+</figure>
+
+<figure>
+  <figcaption><strong>Solicitud a la API</strong></figcaption>
+  <img src="example-images/postman.png" alt="Solicitud a la API"/>
+</figure>
+
+<figure>
+  <figcaption><strong>Base de datos</strong></figcaption>
+  <img src="example-images/database.png" alt="Base de datos"/>
+</figure>

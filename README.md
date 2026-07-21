@@ -38,10 +38,10 @@
 </ul>
 
 <h2>Imagenes de referencia:</h2>
-<img src="Example images/Urban_Scooters_Homepage.png" alt="Pagina principal"/>
-<img src="Example images/Form_1.png" alt="Formulario del alquiler 1"/>
-<img src="Example images/Form_2.png" alt="Formulario del alquiler 2"/>
-<img src="Example images/Order.png" alt="Pedido realizado"/>
-<img src="Example images/app_movil.png" alt="App de repartidores"/>
-<img src="Example images/postman.png" alt="Solicitud a la API"/>
-<img src="Example images/database.png" alt="Base de datos"/>
+<img src="example-images/Urban_Scooters_Homepage.png" alt="Pagina principal"/>
+<img src="example-images/Form_1.png" alt="Formulario del alquiler 1"/>
+<img src="example-images/Form_2.png" alt="Formulario del alquiler 2"/>
+<img src="example-images/Order.png" alt="Pedido realizado"/>
+<img src="example-images/app_movil.png" alt="App de repartidores"/>
+<img src="example-images/postman.png" alt="Solicitud a la API"/>
+<img src="example-images/database.png" alt="Base de datos"/>

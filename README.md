@@ -1,76 +1,101 @@
 <h1>E2E-Manual-testing-project</h1>
 
 <p>
-  Proyecto completo de Testing E2E desde el plan, diseño y ejecución de casos de prueba que se puede observar en el archivo <code>test cases.xlsx</code>. El objetivo principal es crear un escenario real de una renta de un scooter via online, desde que el usuario hace el pedido hasta que el repartidor lo acepta desde una app móvil.
+  Complete E2E Testing project covering everything from test planning, design, and execution, which can be reviewed in the <code>test cases.xlsx</code> file. The main objective is to simulate a real-world scenario of an online scooter rental, from the moment a user places an order to when a courier accepts it via a mobile app.
 </p>
 
 <p>
-  Se ejecutaron pruebas manuales para la app web y Android Studio para la app móvil. También se desarrollaron algunas solicitudes en Postman para validar algunos requerimientos de la API, así como también consultas en PostgreSQL para validar algunos datos de la base de datos.
+  Manual tests were executed for the web application, and Android Studio was used for the mobile app. Additionally, Postman requests were developed to validate specific API requirements, alongside PostgreSQL queries to verify data consistency in the database.
 </p>
 
-<h2>Estructura del archivo de test cases:</h2>
-
-<h3>APP WEB (Usuarios)</h3>
-<h4>Tarea 2:</h4>
+<h2>Key Achievements</h2>
 <ul>
-  <li><strong>Artefactos:</strong> Es un mapa mental el cual se utilizó como base para desarrollar la lista de comprobación y validación de datos.</li>
-  <li><strong>Lista de comprobación:</strong> Son los escenarios positivos y negativos basados en los requisitos para la aplicación web.</li>
-  <li><strong>Validación de datos:</strong> Es un análisis en el que se usó la metodología de valores límites y partición de clases para validar los escenarios positivos y negativos para la aplicación web.</li>
+  <li><strong>158 test cases designed and executed</strong></li>
+  <ul>
+    <li>82 positive and 76 negative scenarios.</li>
+    <li>88 for the web app, 25 for the mobile app, and 45 for the API and database.</li>
+  </ul>
+  <li><strong>43 bugs found and reported in JIRA</strong></li>
+  <li><strong>97% test coverage; only 5 test cases were skipped due to software defects (blockers)</strong></li>
+  <li><strong>16 hours of test execution</strong></li>
 </ul>
 
-<h3>APP MÓVIL (Repartidores)</h3>
-<h4>Tarea 3:</h4>
+<h2>Skills and Tools Used</h2>
 <ul>
-  <li><strong>Casos de prueba:</strong> Escenarios de pruebas manuales positivos y negativos para validar algunos requisitos de la app móvil para repartidores.</li>
+  <li>Requirements Analysis</li>
+  <li>Test Design Techniques: Equivalence Partitioning and Boundary Value Analysis</li>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
 </ul>
 
-<h3>API y database:</h3>
-<h4>Tarea 4:</h4>
+<h2>Test Cases File Structure:</h2>
+
+<h3>WEB APP (Users)</h3>
+<h4>Task 2:</h4>
 <ul>
-  <li><strong>Lista de comprobación:</strong> Escenarios positivos y negativos para validar los requisitos de la API y la base de datos para algunos escenarios en específico.</li>
+  <li><strong>Artifacts:</strong> A mind map used as a baseline to develop the checklist and data validation matrix.</li>
+  <li><strong>Checklist:</strong> Positive and negative scenarios based on the web application requirements.</li>
+  <li><strong>Data Validation:</strong> An analysis applying Boundary Value Analysis and Equivalence Partitioning methodologies to validate positive and negative scenarios for the web application.</li>
+</ul>
+
+<h3>MOBILE APP (Couriers)</h3>
+<h4>Task 3:</h4>
+<ul>
+  <li><strong>Test Cases:</strong> Positive and negative manual test scenarios to validate requirements for the courier mobile app.</li>
+</ul>
+
+<h3>API and Database:</h3>
+<h4>Task 4:</h4>
+<ul>
+  <li><strong>Checklist:</strong> Positive and negative scenarios to validate API and database requirements for specific use cases.</li>
 </ul>
 
 <h2>JIRA Reports:</h2>
 <ul>
-  <li><strong>Bugs de la app web:</strong> TFP-2 al TFP-15</li>
-  <li><strong>Bugs de la app móvil:</strong> TFP-16 al TFP-26</li>
-  <li><strong>Bugs de la API y base de datos:</strong> TFP-27 al TFP-43</li>
+  <li><strong>Web App Bugs:</strong> TFP-2 to TFP-15</li>
+  <li><strong>Mobile App Bugs:</strong> TFP-16 to TFP-26</li>
+  <li><strong>API and Database Bugs:</strong> TFP-27 to TFP-43</li>
 </ul>
 
-<h2>Imagenes de referencia:</h2>
-<h2>Imagenes de referencia:</h2>
+<h2>Reference Images:</h2>
 
 <figure>
-  <figcaption><strong>Pagina principal</strong></figcaption>
-  <img src="example-images/Urban_Scooters_Homepage.PNG" alt="Pagina principal"/>
+  <figcaption><strong>Homepage</strong></figcaption>
+  <img src="example-images/Urban_Scooters_Homepage.PNG" alt="Homepage"/>
 </figure>
 
 <figure>
-  <figcaption><strong>Formulario del alquiler 1</strong></figcaption>
-  <img src="example-images/Form_1.png" alt="Formulario del alquiler 1"/>
+  <figcaption><strong>Rental Form - Step 1</strong></figcaption>
+  <img src="example-images/Form_1.png" alt="Rental Form - Step 1"/>
 </figure>
 
 <figure>
-  <figcaption><strong>Formulario del alquiler 2</strong></figcaption>
-  <img src="example-images/Form_2.png" alt="Formulario del alquiler 2"/>
+  <figcaption><strong>Rental Form - Step 2</strong></figcaption>
+  <img src="example-images/Form_2.png" alt="Rental Form - Step 2"/>
 </figure>
 
 <figure>
-  <figcaption><strong>Pedido realizado</strong></figcaption>
-  <img src="example-images/Order.png" alt="Pedido realizado"/>
+  <figcaption><strong>Order Placed</strong></figcaption>
+  <img src="example-images/Order.png" alt="Order Placed"/>
 </figure>
 
 <figure>
-  <figcaption><strong>App de repartidores</strong></figcaption>
-  <img src="example-images/app_movil.png" alt="App de repartidores"/>
+  <figcaption><strong>Courier Mobile App</strong></figcaption>
+  <img src="example-images/app_movil.png" alt="Courier Mobile App"/>
 </figure>
 
 <figure>
-  <figcaption><strong>Solicitud a la API</strong></figcaption>
-  <img src="example-images/postman.png" alt="Solicitud a la API"/>
+  <figcaption><strong>API Request</strong></figcaption>
+  <img src="example-images/postman.png" alt="API Request"/>
 </figure>
 
 <figure>
-  <figcaption><strong>Base de datos</strong></figcaption>
-  <img src="example-images/database.png" alt="Base de datos"/>
+  <figcaption><strong>Database</strong></figcaption>
+  <img src="example-images/database.png" alt="Database"/>
 </figure>
